@@ -1,5 +1,5 @@
 # OR2024_forest_BCPk
-materials for OR2024 submission
+The gap convergence curve for $chicago_loop_624_971$ with k = \{5, 10, 20, 50, 100\}
 ## k=5
 ![k=5](https://github.com/user-attachments/assets/caae9a8c-3a06-4820-8b4a-643b116c4b44)
 
